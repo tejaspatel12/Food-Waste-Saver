@@ -1,0 +1,343 @@
+[08-Nov-2023 21:44:22 Europe/London] PHP Warning:  Undefined variable $connection in /home2/activrm2/public_html/admin/api/restaurent.php on line 5
+[08-Nov-2023 21:44:22 Europe/London] PHP Warning:  Attempt to read property "connect_error" on null in /home2/activrm2/public_html/admin/api/restaurent.php on line 5
+[08-Nov-2023 21:44:22 Europe/London] PHP Warning:  Undefined array key "latitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 10
+[08-Nov-2023 21:44:22 Europe/London] PHP Warning:  Undefined array key "longitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 11
+[08-Nov-2023 21:44:22 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'latitude' in 'field list' in /home2/activrm2/public_html/admin/api/restaurent.php:28
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(28): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 28
+[08-Nov-2023 22:19:40 Europe/London] PHP Warning:  Undefined variable $connection in /home2/activrm2/public_html/admin/api/restaurent.php on line 5
+[08-Nov-2023 22:19:40 Europe/London] PHP Warning:  Attempt to read property "connect_error" on null in /home2/activrm2/public_html/admin/api/restaurent.php on line 5
+[08-Nov-2023 22:19:40 Europe/London] PHP Warning:  Undefined array key "latitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 10
+[08-Nov-2023 22:19:40 Europe/London] PHP Warning:  Undefined array key "longitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 11
+[08-Nov-2023 22:19:40 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'latitude' in 'field list' in /home2/activrm2/public_html/admin/api/restaurent.php:28
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(28): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 28
+[08-Nov-2023 22:21:00 Europe/London] PHP Warning:  Undefined variable $connection in /home2/activrm2/public_html/admin/api/restaurent.php on line 5
+[08-Nov-2023 22:21:00 Europe/London] PHP Warning:  Attempt to read property "connect_error" on null in /home2/activrm2/public_html/admin/api/restaurent.php on line 5
+[08-Nov-2023 22:21:00 Europe/London] PHP Warning:  Undefined array key "latitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 10
+[08-Nov-2023 22:21:00 Europe/London] PHP Warning:  Undefined array key "longitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 11
+[08-Nov-2023 22:21:00 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'latitude' in 'field list' in /home2/activrm2/public_html/admin/api/restaurent.php:28
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(28): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 28
+[11-Nov-2023 15:26:00 Europe/London] PHP Warning:  Undefined variable $connection in /home2/activrm2/public_html/admin/api/restaurent.php on line 5
+[11-Nov-2023 15:26:00 Europe/London] PHP Warning:  Attempt to read property "connect_error" on null in /home2/activrm2/public_html/admin/api/restaurent.php on line 5
+[11-Nov-2023 15:26:00 Europe/London] PHP Warning:  Undefined array key "latitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 10
+[11-Nov-2023 15:26:00 Europe/London] PHP Warning:  Undefined array key "longitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 11
+[11-Nov-2023 15:26:00 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'latitude' in 'field list' in /home2/activrm2/public_html/admin/api/restaurent.php:28
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(28): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 28
+[11-Nov-2023 15:28:45 Europe/London] PHP Warning:  Undefined array key "latitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 10
+[11-Nov-2023 15:28:45 Europe/London] PHP Warning:  Undefined array key "longitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 11
+[11-Nov-2023 15:28:45 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'latitude' in 'field list' in /home2/activrm2/public_html/admin/api/restaurent.php:28
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(28): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 28
+[11-Nov-2023 15:31:15 Europe/London] PHP Warning:  Undefined array key "latitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 10
+[11-Nov-2023 15:31:15 Europe/London] PHP Warning:  Undefined array key "longitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 11
+[11-Nov-2023 15:31:15 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'latitude' in 'field list' in /home2/activrm2/public_html/admin/api/restaurent.php:28
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(28): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 28
+[11-Nov-2023 16:27:46 Europe/London] PHP Warning:  Undefined array key "latitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 10
+[11-Nov-2023 16:27:46 Europe/London] PHP Warning:  Undefined array key "longitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 11
+[11-Nov-2023 16:27:46 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'latitude' in 'field list' in /home2/activrm2/public_html/admin/api/restaurent.php:28
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(28): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 28
+[11-Nov-2023 16:28:00 Europe/London] PHP Warning:  Undefined array key "latitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 10
+[11-Nov-2023 16:28:00 Europe/London] PHP Warning:  Undefined array key "longitude" in /home2/activrm2/public_html/admin/api/restaurent.php on line 11
+[11-Nov-2023 16:28:00 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'latitude' in 'field list' in /home2/activrm2/public_html/admin/api/restaurent.php:28
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(28): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 28
+[11-Nov-2023 16:33:37 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)) * COS(RADIANS(SUBSTRING_INDEX(restaurant_location, ',', 1))) *
+        COS(R' at line 3 in /home2/activrm2/public_html/admin/api/restaurent.php:48
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(48): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 48
+[11-Nov-2023 16:34:55 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)) * COS(RADIANS(SUBSTRING_INDEX(restaurant_location, ',', 1))) *
+        COS(R' at line 3 in /home2/activrm2/public_html/admin/api/restaurent.php:48
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(48): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 48
+[11-Nov-2023 16:35:03 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)) * COS(RADIANS(SUBSTRING_INDEX(restaurant_location, ',', 1))) *
+        COS(R' at line 3 in /home2/activrm2/public_html/admin/api/restaurent.php:48
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(48): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 48
+[11-Nov-2023 16:37:10 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)) * COS(RADIANS(SUBSTRING_INDEX(restaurant_location, ',', 1))) *
+        COS(R' at line 3 in /home2/activrm2/public_html/admin/api/restaurent.php:48
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(48): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 48
+[11-Nov-2023 16:38:04 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)) * COS(RADIANS(SUBSTRING_INDEX(restaurant_location, ',', 1))) *
+        COS(R' at line 3 in /home2/activrm2/public_html/admin/api/restaurent.php:48
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(48): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 48
+[11-Nov-2023 16:41:30 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)) * COS(RADIANS(SUBSTRING_INDEX(restaurant_location, ',', 1))) *
+        COS(R' at line 3 in /home2/activrm2/public_html/admin/api/restaurent.php:48
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(48): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 48
+[11-Nov-2023 16:41:33 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)) * COS(RADIANS(SUBSTRING_INDEX(restaurant_location, ',', 1))) *
+        COS(R' at line 3 in /home2/activrm2/public_html/admin/api/restaurent.php:48
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(48): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 48
+[11-Nov-2023 16:41:42 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?)) * COS(RADIANS(SUBSTRING_INDEX(restaurant_location, ',', 1))) *
+        COS(R' at line 3 in /home2/activrm2/public_html/admin/api/restaurent.php:48
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(48): mysqli->query('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 48
+[11-Nov-2023 16:49:02 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'restaurant_longitude' in 'field list' in /home2/activrm2/public_html/admin/api/restaurent.php:31
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(31): mysqli->prepare('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 31
+[11-Nov-2023 16:50:00 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'restaurant_longitude' in 'field list' in /home2/activrm2/public_html/admin/api/restaurent.php:31
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(31): mysqli->prepare('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 31
+[11-Nov-2023 16:50:02 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'restaurant_longitude' in 'field list' in /home2/activrm2/public_html/admin/api/restaurent.php:31
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurent.php(31): mysqli->prepare('SELECT *, (\n   ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurent.php on line 31
+[11-Nov-2023 17:18:25 UTC] PHP Fatal error:  Cannot use [] for reading in /home2/activrm2/public_html/admin/api/restaurent.php on line 43
+[11-Nov-2023 17:19:57 UTC] PHP Fatal error:  Cannot use [] for reading in /home2/activrm2/public_html/admin/api/restaurent.php on line 43
+[11-Nov-2023 17:20:43 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home2/activrm2/public_html/admin/api/restaurent.php on line 43
+[21-Nov-2023 18:45:20 Europe/London] PHP Warning:  Undefined array key "restaurant_id" in /home2/activrm2/public_html/admin/api/meal.php on line 13
+[21-Nov-2023 18:45:20 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/activrm2/public_html/admin/api/meal.php:18
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/meal.php(18): mysqli->query('SELECT * FROM t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/meal.php on line 18
+[21-Nov-2023 18:54:40 Europe/London] PHP Warning:  Undefined array key "restaurant_id" in /home2/activrm2/public_html/admin/api/meal.php on line 13
+[21-Nov-2023 18:54:40 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/activrm2/public_html/admin/api/meal.php:18
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/meal.php(18): mysqli->query('SELECT * FROM t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/meal.php on line 18
+[21-Nov-2023 22:19:25 Europe/London] PHP Warning:  Undefined array key "restaurant_id" in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 22
+[21-Nov-2023 22:19:25 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/activrm2/public_html/admin/api/restaurant_meal.php:26
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_meal.php(26): mysqli->query('SELECT * FROM t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 26
+[21-Nov-2023 22:41:08 Europe/London] PHP Warning:  Undefined array key "restaurant_id" in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 22
+[21-Nov-2023 22:41:08 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/activrm2/public_html/admin/api/restaurant_meal.php:26
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_meal.php(26): mysqli->query('SELECT * FROM t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 26
+[21-Nov-2023 22:41:35 Europe/London] PHP Warning:  Undefined array key "restaurant_id" in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 22
+[21-Nov-2023 22:41:35 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/activrm2/public_html/admin/api/restaurant_meal.php:26
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_meal.php(26): mysqli->query('SELECT * FROM t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 26
+[21-Nov-2023 22:41:38 Europe/London] PHP Warning:  Undefined array key "restaurant_id" in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 22
+[21-Nov-2023 22:41:38 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/activrm2/public_html/admin/api/restaurant_meal.php:26
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_meal.php(26): mysqli->query('SELECT * FROM t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 26
+[21-Nov-2023 23:43:16 Europe/London] PHP Warning:  Undefined array key "restaurant_id" in /home2/activrm2/public_html/admin/api/restaurant_detail.php on line 12
+[21-Nov-2023 23:43:16 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'activrm2_foodwaste.restaurants' doesn't exist in /home2/activrm2/public_html/admin/api/restaurant_detail.php:15
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_detail.php(15): mysqli->prepare('SELECT * FROM r...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_detail.php on line 15
+[21-Nov-2023 23:43:23 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'activrm2_foodwaste.restaurants' doesn't exist in /home2/activrm2/public_html/admin/api/restaurant_detail.php:15
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_detail.php(15): mysqli->prepare('SELECT * FROM r...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_detail.php on line 15
+[21-Nov-2023 23:43:25 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'activrm2_foodwaste.restaurants' doesn't exist in /home2/activrm2/public_html/admin/api/restaurant_detail.php:15
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_detail.php(15): mysqli->prepare('SELECT * FROM r...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_detail.php on line 15
+[21-Nov-2023 23:43:56 UTC] PHP Parse error:  Unclosed '{' on line 11 in /home2/activrm2/public_html/admin/api/restaurant_detail.php on line 41
+[21-Nov-2023 23:43:58 UTC] PHP Parse error:  Unclosed '{' on line 11 in /home2/activrm2/public_html/admin/api/restaurant_detail.php on line 41
+[21-Nov-2023 23:47:12 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'tbl_restaurant WHERE restaurant_id = ?' at line 1 in /home2/activrm2/public_html/admin/api/restaurant_detail.php:15
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_detail.php(15): mysqli->prepare('SELECT * tbl_re...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_detail.php on line 15
+[21-Nov-2023 23:48:52 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'tbl_restaurant WHERE restaurant_id = ?' at line 1 in /home2/activrm2/public_html/admin/api/restaurant_detail.php:15
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_detail.php(15): mysqli->prepare('SELECT * tbl_re...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_detail.php on line 15
+[21-Nov-2023 23:50:08 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'tbl_restaurant WHERE restaurant_id = ?' at line 1 in /home2/activrm2/public_html/admin/api/restaurant_detail.php:15
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_detail.php(15): mysqli->prepare('SELECT * tbl_re...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_detail.php on line 15
+[21-Nov-2023 23:50:10 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'tbl_restaurant WHERE restaurant_id = ?' at line 1 in /home2/activrm2/public_html/admin/api/restaurant_detail.php:15
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_detail.php(15): mysqli->prepare('SELECT * tbl_re...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_detail.php on line 15
+[22-Nov-2023 17:52:55 Europe/London] PHP Warning:  Undefined array key "restaurant_id" in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 22
+[22-Nov-2023 17:52:55 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/activrm2/public_html/admin/api/restaurant_meal.php:33
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_meal.php(33): mysqli->query('SELECT * FROM t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 33
+[22-Nov-2023 17:52:58 Europe/London] PHP Warning:  Undefined array key "restaurant_id" in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 22
+[22-Nov-2023 17:52:58 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/activrm2/public_html/admin/api/restaurant_meal.php:33
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_meal.php(33): mysqli->query('SELECT * FROM t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 33
+[22-Nov-2023 17:53:16 Europe/London] PHP Warning:  Undefined array key "restaurant_id" in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 22
+[22-Nov-2023 17:53:16 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/activrm2/public_html/admin/api/restaurant_meal.php:33
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_meal.php(33): mysqli->query('SELECT * FROM t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 33
+[22-Nov-2023 17:53:53 Europe/London] PHP Warning:  Undefined array key "restaurant_id" in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 22
+[22-Nov-2023 17:53:53 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/activrm2/public_html/admin/api/restaurant_meal.php:33
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/restaurant_meal.php(33): mysqli->query('SELECT * FROM t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/restaurant_meal.php on line 33
+[23-Nov-2023 14:51:58 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::beginTransaction() in /home2/activrm2/public_html/admin/api/place_order.php:25
+Stack trace:
+#0 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 25
+[23-Nov-2023 14:53:54 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::beginTransaction() in /home2/activrm2/public_html/admin/api/place_order.php:25
+Stack trace:
+#0 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 25
+[23-Nov-2023 15:07:14 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 13
+[23-Nov-2023 15:07:14 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 14
+[23-Nov-2023 15:07:14 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 15
+[23-Nov-2023 15:07:48 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 13
+[23-Nov-2023 15:07:48 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 14
+[23-Nov-2023 15:07:48 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 15
+[23-Nov-2023 15:07:52 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 13
+[23-Nov-2023 15:07:52 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 14
+[23-Nov-2023 15:07:52 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 15
+[23-Nov-2023 15:16:46 Europe/London] PHP Warning:  Array to string conversion in /home2/activrm2/public_html/admin/api/place_order.php on line 18
+[23-Nov-2023 15:17:37 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 13
+[23-Nov-2023 15:17:37 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 14
+[23-Nov-2023 15:17:37 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 15
+[23-Nov-2023 15:17:37 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'restaurant_id' cannot be null in /home2/activrm2/public_html/admin/api/place_order.php:21
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/place_order.php(21): mysqli_stmt->execute(Array)
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 21
+[23-Nov-2023 15:17:51 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::lastInsertId() in /home2/activrm2/public_html/admin/api/place_order.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 24
+[23-Nov-2023 15:18:10 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 13
+[23-Nov-2023 15:18:10 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 14
+[23-Nov-2023 15:18:10 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 15
+[23-Nov-2023 15:18:10 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'restaurant_id' cannot be null in /home2/activrm2/public_html/admin/api/place_order.php:21
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/place_order.php(21): mysqli_stmt->execute(Array)
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 21
+[23-Nov-2023 15:19:23 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 13
+[23-Nov-2023 15:19:23 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 14
+[23-Nov-2023 15:19:23 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 15
+[23-Nov-2023 15:19:23 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'restaurant_id' cannot be null in /home2/activrm2/public_html/admin/api/place_order.php:22
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/place_order.php(22): mysqli_stmt->execute(Array)
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 22
+[23-Nov-2023 15:19:27 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 13
+[23-Nov-2023 15:19:27 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 14
+[23-Nov-2023 15:19:27 Europe/London] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/admin/api/place_order.php on line 15
+[23-Nov-2023 15:19:27 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'restaurant_id' cannot be null in /home2/activrm2/public_html/admin/api/place_order.php:22
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/place_order.php(22): mysqli_stmt->execute(Array)
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 22
+[23-Nov-2023 15:21:21 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::beginTransaction() in /home2/activrm2/public_html/admin/api/place_order.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 24
+[23-Nov-2023 15:24:45 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::beginTransaction() in /home2/activrm2/public_html/admin/api/place_order.php:25
+Stack trace:
+#0 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 25
+[23-Nov-2023 15:34:33 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::beginTransaction() in /home2/activrm2/public_html/admin/api/place_order.php:25
+Stack trace:
+#0 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 25
+[23-Nov-2023 15:53:53 UTC] PHP Warning:  Array to string conversion in /home2/activrm2/public_html/admin/api/place_order.php on line 17
+[23-Nov-2023 15:56:11 UTC] PHP Warning:  Array to string conversion in /home2/activrm2/public_html/admin/api/place_order.php on line 17
+[23-Nov-2023 15:57:46 UTC] PHP Warning:  Array to string conversion in /home2/activrm2/public_html/admin/api/place_order.php on line 17
+[23-Nov-2023 18:26:48 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':restaurant_id, 1, :order_date, :order_hour, :order_total)' at line 1 in /home2/activrm2/public_html/admin/api/place_order.php:27
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/place_order.php(27): mysqli->prepare('INSERT INTO tbl...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 27
+[23-Nov-2023 18:30:07 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::lastInsertId() in /home2/activrm2/public_html/admin/api/place_order.php:32
+Stack trace:
+#0 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 32
+[23-Nov-2023 18:31:21 Europe/London] PHP Warning:  Undefined array key "id" in /home2/activrm2/public_html/admin/api/place_order.php on line 36
+[23-Nov-2023 18:31:21 Europe/London] PHP Warning:  Undefined array key "quantity" in /home2/activrm2/public_html/admin/api/place_order.php on line 37
+[23-Nov-2023 18:31:21 Europe/London] PHP Warning:  Undefined array key "discount_price" in /home2/activrm2/public_html/admin/api/place_order.php on line 38
+[23-Nov-2023 18:31:21 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'meal_id' cannot be null in /home2/activrm2/public_html/admin/api/place_order.php:43
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/place_order.php(43): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 43
+[23-Nov-2023 18:33:53 Europe/London] PHP Warning:  Undefined array key "id" in /home2/activrm2/public_html/admin/api/place_order.php on line 36
+[23-Nov-2023 18:33:53 Europe/London] PHP Warning:  Undefined array key "quantity" in /home2/activrm2/public_html/admin/api/place_order.php on line 37
+[23-Nov-2023 18:33:53 Europe/London] PHP Warning:  Undefined array key "discount_price" in /home2/activrm2/public_html/admin/api/place_order.php on line 38
+[23-Nov-2023 18:33:53 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'meal_id' cannot be null in /home2/activrm2/public_html/admin/api/place_order.php:43
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/place_order.php(43): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 43
+[23-Nov-2023 18:35:27 Europe/London] PHP Warning:  Undefined array key "id" in /home2/activrm2/public_html/admin/api/place_order.php on line 36
+[23-Nov-2023 18:35:27 Europe/London] PHP Warning:  Undefined array key "quantity" in /home2/activrm2/public_html/admin/api/place_order.php on line 37
+[23-Nov-2023 18:35:27 Europe/London] PHP Warning:  Undefined array key "discount_price" in /home2/activrm2/public_html/admin/api/place_order.php on line 38
+[23-Nov-2023 18:35:27 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'meal_id' cannot be null in /home2/activrm2/public_html/admin/api/place_order.php:43
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/place_order.php(43): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 43
+[23-Nov-2023 18:37:43 Europe/London] PHP Warning:  Undefined array key "id" in /home2/activrm2/public_html/admin/api/place_order.php on line 36
+[23-Nov-2023 18:37:43 Europe/London] PHP Warning:  Undefined array key "quantity" in /home2/activrm2/public_html/admin/api/place_order.php on line 37
+[23-Nov-2023 18:37:43 Europe/London] PHP Warning:  Undefined array key "discount_price" in /home2/activrm2/public_html/admin/api/place_order.php on line 38
+[23-Nov-2023 18:37:43 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'meal_id' cannot be null in /home2/activrm2/public_html/admin/api/place_order.php:43
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/place_order.php(43): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 43
+[01-Dec-2023 12:33:51 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'meal_quantity' in 'field list' in /home2/activrm2/public_html/admin/api/place_order.php:42
+Stack trace:
+#0 /home2/activrm2/public_html/admin/api/place_order.php(42): mysqli->prepare('INSERT INTO tbl...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/api/place_order.php on line 42

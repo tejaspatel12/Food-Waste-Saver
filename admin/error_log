@@ -1,0 +1,128 @@
+[08-Nov-2023 21:05:38 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[08-Nov-2023 21:05:42 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'activrm2_foodwaste.tbl_admin' doesn't exist in /home2/activrm2/public_html/admin/login.php:38
+Stack trace:
+#0 /home2/activrm2/public_html/admin/login.php(38): mysqli_query(Object(mysqli), 'select * from t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/login.php on line 38
+[08-Nov-2023 21:06:47 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'activrm2_foodwaste.tbl_admin' doesn't exist in /home2/activrm2/public_html/admin/login.php:38
+Stack trace:
+#0 /home2/activrm2/public_html/admin/login.php(38): mysqli_query(Object(mysqli), 'select * from t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/login.php on line 38
+[08-Nov-2023 21:07:18 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'activrm2_foodwaste.tbl_admin' doesn't exist in /home2/activrm2/public_html/admin/login.php:38
+Stack trace:
+#0 /home2/activrm2/public_html/admin/login.php(38): mysqli_query(Object(mysqli), 'select * from t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/login.php on line 38
+[08-Nov-2023 21:12:13 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'order_date' specified twice in /home2/activrm2/public_html/admin/new_order.php:43
+Stack trace:
+#0 /home2/activrm2/public_html/admin/new_order.php(43): mysqli->query('INSERT INTO tbl...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/new_order.php on line 43
+[14-Nov-2023 06:26:50 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[14-Nov-2023 06:27:00 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[16-Nov-2023 13:16:45 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[16-Nov-2023 13:16:54 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'order_date' specified twice in /home2/activrm2/public_html/admin/new_order.php:43
+Stack trace:
+#0 /home2/activrm2/public_html/admin/new_order.php(43): mysqli->query('INSERT INTO tbl...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/new_order.php on line 43
+[20-Nov-2023 08:42:21 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[20-Nov-2023 08:42:29 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[20-Nov-2023 08:42:50 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[20-Nov-2023 08:53:10 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[20-Nov-2023 08:53:16 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[20-Nov-2023 08:53:21 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[21-Nov-2023 15:20:19 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[21-Nov-2023 15:20:38 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[21-Nov-2023 23:59:47 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[21-Nov-2023 23:59:55 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[22-Nov-2023 07:21:09 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[22-Nov-2023 07:21:19 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[22-Nov-2023 07:21:24 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[22-Nov-2023 13:15:55 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[22-Nov-2023 15:45:10 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[22-Nov-2023 15:45:10 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[23-Nov-2023 22:13:44 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'order_date' specified twice in /home2/activrm2/public_html/admin/new_order.php:43
+Stack trace:
+#0 /home2/activrm2/public_html/admin/new_order.php(43): mysqli->query('INSERT INTO tbl...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/new_order.php on line 43
+[24-Nov-2023 14:54:09 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[24-Nov-2023 16:53:41 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 126
+[24-Nov-2023 16:54:01 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 126
+[24-Nov-2023 16:54:03 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[24-Nov-2023 17:03:45 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'order_date' specified twice in /home2/activrm2/public_html/admin/new_order.php:43
+Stack trace:
+#0 /home2/activrm2/public_html/admin/new_order.php(43): mysqli->query('INSERT INTO tbl...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/new_order.php on line 43
+[24-Nov-2023 17:10:07 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'order_date' specified twice in /home2/activrm2/public_html/admin/new_order.php:43
+Stack trace:
+#0 /home2/activrm2/public_html/admin/new_order.php(43): mysqli->query('INSERT INTO tbl...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/new_order.php on line 43
+[24-Nov-2023 17:33:18 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'r.restaurant_id' in 'on clause' in /home2/activrm2/public_html/admin/order.php:103
+Stack trace:
+#0 /home2/activrm2/public_html/admin/order.php(103): mysqli_query(Object(mysqli), 'select * from t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/order.php on line 103
+[24-Nov-2023 18:22:48 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[24-Nov-2023 18:22:49 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[24-Nov-2023 19:08:26 UTC] PHP Parse error:  Unclosed '{' on line 93 in /home2/activrm2/public_html/admin/restaurent.php on line 168
+[24-Nov-2023 23:04:06 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[25-Nov-2023 17:04:04 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[30-Nov-2023 00:19:32 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[30-Nov-2023 11:37:19 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[30-Nov-2023 14:01:52 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[30-Nov-2023 14:01:53 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[30-Nov-2023 15:53:07 Europe/London] PHP Warning:  Undefined array key "restaurant_id" in /home2/activrm2/public_html/admin/foodbank.php on line 103
+[30-Nov-2023 15:53:07 Europe/London] PHP Warning:  Undefined array key "restaurant_name" in /home2/activrm2/public_html/admin/foodbank.php on line 103
+[30-Nov-2023 15:53:07 Europe/London] PHP Warning:  Undefined array key "restaurant_location" in /home2/activrm2/public_html/admin/foodbank.php on line 104
+[30-Nov-2023 15:54:01 Europe/London] PHP Warning:  Undefined array key "restaurant_location" in /home2/activrm2/public_html/admin/foodbank.php on line 104
+[30-Nov-2023 15:57:24 Europe/London] PHP Warning:  Undefined array key "restaurant_location" in /home2/activrm2/public_html/admin/foodbank.php on line 104
+[30-Nov-2023 16:03:38 Europe/London] PHP Warning:  Undefined array key "restaurant_location" in /home2/activrm2/public_html/admin/foodbank.php on line 104
+[30-Nov-2023 16:03:51 Europe/London] PHP Warning:  Undefined array key "restaurant_location" in /home2/activrm2/public_html/admin/foodbank.php on line 104
+[30-Nov-2023 16:04:59 Europe/London] PHP Warning:  Undefined array key "restaurant_location" in /home2/activrm2/public_html/admin/foodbank.php on line 104
+[30-Nov-2023 16:05:05 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[30-Nov-2023 16:07:07 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[30-Nov-2023 16:08:33 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[30-Nov-2023 16:08:39 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[30-Nov-2023 16:08:58 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[30-Nov-2023 16:09:10 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[30-Nov-2023 16:09:24 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[30-Nov-2023 16:10:25 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[30-Nov-2023 16:10:30 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[30-Nov-2023 16:11:41 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[30-Nov-2023 16:17:18 Europe/London] PHP Warning:  Undefined array key "restaurant_location" in /home2/activrm2/public_html/admin/foodbank.php on line 104
+[30-Nov-2023 16:17:24 Europe/London] PHP Warning:  Undefined array key "restaurant_location" in /home2/activrm2/public_html/admin/foodbank.php on line 104
+[30-Nov-2023 16:20:58 Europe/London] PHP Warning:  Undefined array key "meal_image" in /home2/activrm2/public_html/admin/foodbank.php on line 105
+[30-Nov-2023 16:20:58 Europe/London] PHP Warning:  Undefined array key "restaurant_location" in /home2/activrm2/public_html/admin/foodbank.php on line 109
+[30-Nov-2023 16:23:03 Europe/London] PHP Warning:  Undefined array key "restaurant_location" in /home2/activrm2/public_html/admin/foodbank.php on line 109
+[30-Nov-2023 16:23:30 Europe/London] PHP Warning:  Undefined array key "restaurant_location" in /home2/activrm2/public_html/admin/foodbank.php on line 110
+[30-Nov-2023 17:28:02 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[30-Nov-2023 17:34:42 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 126
+[30-Nov-2023 22:13:45 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[01-Dec-2023 12:35:41 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[01-Dec-2023 12:35:51 Europe/London] PHP Warning:  Undefined variable $total_of_all in /home2/activrm2/public_html/admin/order_detail.php on line 182
+[02-Dec-2023 17:49:54 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[02-Dec-2023 17:50:24 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[02-Dec-2023 17:50:45 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[03-Dec-2023 21:15:36 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[03-Dec-2023 21:17:36 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[03-Dec-2023 21:17:42 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[04-Dec-2023 12:44:28 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[04-Dec-2023 12:44:38 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[04-Dec-2023 12:44:57 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[08-Dec-2023 00:45:44 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[08-Dec-2023 13:17:15 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[10-Dec-2023 13:09:18 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[10-Dec-2023 13:13:36 Europe/London] PHP Warning:  Undefined variable $total_of_all in /home2/activrm2/public_html/admin/order_detail.php on line 182
+[10-Dec-2023 13:13:40 Europe/London] PHP Warning:  Undefined variable $total_of_all in /home2/activrm2/public_html/admin/order_detail.php on line 182
+[10-Dec-2023 13:14:15 Europe/London] PHP Warning:  Undefined variable $total_of_all in /home2/activrm2/public_html/admin/order_detail.php on line 182
+[10-Dec-2023 13:14:21 Europe/London] PHP Warning:  Undefined variable $total_of_all in /home2/activrm2/public_html/admin/order_detail.php on line 182
+[10-Dec-2023 16:23:58 Europe/London] PHP Warning:  Undefined array key "username" in /home2/activrm2/public_html/admin/header.php on line 366
+[10-Dec-2023 16:24:20 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[10-Dec-2023 16:24:43 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[10-Dec-2023 16:24:54 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90
+[10-Dec-2023 16:45:46 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/admin/restaurent_detail.php on line 90

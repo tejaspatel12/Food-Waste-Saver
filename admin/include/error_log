@@ -1,0 +1,135 @@
+[30-Nov-2023 18:10:29 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:39
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(39): mysqli_stmt->bind_param('ssssssidsdd', 'De', '1', 'foodbank.png', '333', 'a@gmail.com', '12345', '1', '3', '1', '1')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 39
+[30-Nov-2023 18:10:31 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:39
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(39): mysqli_stmt->bind_param('ssssssidsdd', 'De', '1', 'foodbank.png', '333', 'a@gmail.com', '12345', '1', '3', '1', '1')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 39
+[30-Nov-2023 18:10:32 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:39
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(39): mysqli_stmt->bind_param('ssssssidsdd', 'De', '1', 'foodbank.png', '333', 'a@gmail.com', '12345', '1', '3', '1', '1')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 39
+[30-Nov-2023 18:10:34 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:39
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(39): mysqli_stmt->bind_param('ssssssidsdd', 'De', '1', 'foodbank.png', '333', 'a@gmail.com', '12345', '1', '3', '1', '1')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 39
+[30-Nov-2023 18:10:34 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:39
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(39): mysqli_stmt->bind_param('ssssssidsdd', 'De', '1', 'foodbank.png', '333', 'a@gmail.com', '12345', '1', '3', '1', '1')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 39
+[30-Nov-2023 18:10:34 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:39
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(39): mysqli_stmt->bind_param('ssssssidsdd', 'De', '1', 'foodbank.png', '333', 'a@gmail.com', '12345', '1', '3', '1', '1')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 39
+[30-Nov-2023 18:10:34 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:39
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(39): mysqli_stmt->bind_param('ssssssidsdd', 'De', '1', 'foodbank.png', '333', 'a@gmail.com', '12345', '1', '3', '1', '1')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 39
+[30-Nov-2023 18:11:04 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:39
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(39): mysqli_stmt->bind_param('ssssssidsdd', 'ss', '1', 'foodbank.png', '11111', 'a@gmail.com', '12345', 'ssww', '1', '12', '11')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 39
+[30-Nov-2023 18:11:06 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:39
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(39): mysqli_stmt->bind_param('ssssssidsdd', 'ss', '1', 'foodbank.png', '11111', 'a@gmail.com', '12345', 'ssww', '1', '12', '11')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 39
+[30-Nov-2023 18:11:13 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:39
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(39): mysqli_stmt->bind_param('ssssssidsdd', 'ss', '1', 'foodbank.png', '11111', 'a@gmail.com', '12345', 'ssww', '1', '12', '11')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 39
+[30-Nov-2023 18:11:51 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:39
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(39): mysqli_stmt->bind_param('ssssssidsdd', 'ss', '1', 'foodbank.png', '11111', 'a@gmail.com', '12345', 'ssww', '1', '12', '11')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 39
+[30-Nov-2023 18:15:06 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:40
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(40): mysqli_stmt->bind_param('ssssssidsdd', 'ss', '1', 'foodbank.png', '11111', 'a@gmail.com', '12345', 'ssww', '1', '12', '11')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 40
+[30-Nov-2023 18:15:06 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:40
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(40): mysqli_stmt->bind_param('ssssssidsdd', 'ss', '1', 'foodbank.png', '11111', 'a@gmail.com', '12345', 'ssww', '1', '12', '11')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 40
+[30-Nov-2023 18:15:40 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:40
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(40): mysqli_stmt->bind_param('ssssssidsdd', 'ee', '1', '655ced7438e65.j...', '333', 'a@gmail.com', '12345', '2 ss', '3', '11', '11')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 40
+[30-Nov-2023 18:16:25 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:40
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(40): mysqli_stmt->bind_param('ssssssidsdd', 'ee', '1', '655ced7438e65.j...', '333', 'a@gmail.com', '12345', '2 ss', '3', '52.400975', '-1.5271122')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 40
+[30-Nov-2023 18:18:11 Europe/London] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home2/activrm2/public_html/admin/include/add_foodbank.php:41
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(41): mysqli_stmt->bind_param('', 'ee', '1', '655ced7438e65.j...', '333', 'a@gmail.com', '12345', '2 ss', '3', '52.400975', '-1.5271122')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 41
+[30-Nov-2023 18:18:11 Europe/London] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home2/activrm2/public_html/admin/include/add_foodbank.php:41
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(41): mysqli_stmt->bind_param('', 'ee', '1', '655ced7438e65.j...', '333', 'a@gmail.com', '12345', '2 ss', '3', '52.400975', '-1.5271122')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 41
+[30-Nov-2023 18:18:12 Europe/London] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home2/activrm2/public_html/admin/include/add_foodbank.php:41
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(41): mysqli_stmt->bind_param('', 'ee', '1', '655ced7438e65.j...', '333', 'a@gmail.com', '12345', '2 ss', '3', '52.400975', '-1.5271122')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 41
+[30-Nov-2023 18:18:12 Europe/London] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home2/activrm2/public_html/admin/include/add_foodbank.php:41
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(41): mysqli_stmt->bind_param('', 'ee', '1', '655ced7438e65.j...', '333', 'a@gmail.com', '12345', '2 ss', '3', '52.400975', '-1.5271122')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 41
+[30-Nov-2023 18:18:12 Europe/London] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home2/activrm2/public_html/admin/include/add_foodbank.php:41
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(41): mysqli_stmt->bind_param('', 'ee', '1', '655ced7438e65.j...', '333', 'a@gmail.com', '12345', '2 ss', '3', '52.400975', '-1.5271122')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 41
+[30-Nov-2023 18:18:12 Europe/London] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home2/activrm2/public_html/admin/include/add_foodbank.php:41
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(41): mysqli_stmt->bind_param('', 'ee', '1', '655ced7438e65.j...', '333', 'a@gmail.com', '12345', '2 ss', '3', '52.400975', '-1.5271122')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 41
+[30-Nov-2023 18:18:52 Europe/London] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home2/activrm2/public_html/admin/include/add_foodbank.php:41
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(41): mysqli_stmt->bind_param('', 'dmo', '52.400975', '403898040_88845...', '1222', 'a@gmail.com', '12345', 'cv1', '3', '52.400975', '-1.5271122')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 41
+[30-Nov-2023 18:19:27 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:41
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(41): mysqli_stmt->bind_param('ssssssidsdd', 'dmo', '52.400975', '403898040_88845...', '1222', 'a@gmail.com', '12345', 'cv1', '3', '52.400975', '-1.5271122')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 41
+[30-Nov-2023 18:19:28 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:41
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(41): mysqli_stmt->bind_param('ssssssidsdd', 'dmo', '52.400975', '403898040_88845...', '1222', 'a@gmail.com', '12345', 'cv1', '3', '52.400975', '-1.5271122')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 41
+[30-Nov-2023 18:28:57 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_foodbank.php:39
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_foodbank.php(39): mysqli_stmt->bind_param('ssssssidsdd', 'demo', '52.400975', '403898040_88845...', '2222', 'a@gmail.com', '12345', '111', '3', '52.400975', '-1.5271122')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_foodbank.php on line 39
+[30-Nov-2023 18:30:15 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_city.php:20
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_city.php(20): mysqli_stmt->bind_param('ssssssidds', 'Leeds')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_city.php on line 20
+[30-Nov-2023 18:30:17 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/activrm2/public_html/admin/include/add_city.php:20
+Stack trace:
+#0 /home2/activrm2/public_html/admin/include/add_city.php(20): mysqli_stmt->bind_param('ssssssidds', 'Leeds')
+#1 {main}
+  thrown in /home2/activrm2/public_html/admin/include/add_city.php on line 20

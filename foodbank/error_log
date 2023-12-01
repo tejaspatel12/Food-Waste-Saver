@@ -1,0 +1,123 @@
+[20-Nov-2023 19:33:31 Europe/London] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home2/activrm2/public_html/foodbank/index.php on line 47
+[20-Nov-2023 19:33:31 Europe/London] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/activrm2/public_html/foodbank/index.php on line 47
+[20-Nov-2023 19:33:31 Europe/London] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home2/activrm2/public_html/foodbank/index.php on line 52
+[20-Nov-2023 19:33:31 Europe/London] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/activrm2/public_html/foodbank/index.php on line 52
+[20-Nov-2023 19:33:31 Europe/London] PHP Warning:  Undefined variable $restaurant in /home2/activrm2/public_html/foodbank/index.php on line 179
+[20-Nov-2023 19:33:31 Europe/London] PHP Warning:  Undefined variable $restaurant in /home2/activrm2/public_html/foodbank/index.php on line 179
+[20-Nov-2023 19:33:31 Europe/London] PHP Warning:  Undefined variable $restaurant in /home2/activrm2/public_html/foodbank/index.php on line 179
+[20-Nov-2023 19:33:31 Europe/London] PHP Warning:  Undefined variable $restaurant in /home2/activrm2/public_html/foodbank/index.php on line 179
+[20-Nov-2023 19:33:31 Europe/London] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/activrm2/public_html/foodbank/index.php on line 226
+[20-Nov-2023 19:33:31 Europe/London] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/activrm2/public_html/foodbank/index.php on line 226
+[20-Nov-2023 22:33:29 Europe/London] PHP Warning:  Undefined array key "restaurant_name" in /home2/activrm2/public_html/foodbank/header.php on line 366
+[20-Nov-2023 22:38:12 UTC] PHP Warning:  Undefined variable $conn in /home2/activrm2/public_html/foodbank/login.php on line 44
+[20-Nov-2023 22:38:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/activrm2/public_html/foodbank/login.php:44
+Stack trace:
+#0 /home2/activrm2/public_html/foodbank/login.php(44): mysqli_query(NULL, 'select * from t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/foodbank/login.php on line 44
+[20-Nov-2023 22:38:45 UTC] PHP Warning:  Undefined variable $conn in /home2/activrm2/public_html/foodbank/login.php on line 44
+[20-Nov-2023 22:38:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/activrm2/public_html/foodbank/login.php:44
+Stack trace:
+#0 /home2/activrm2/public_html/foodbank/login.php(44): mysqli_query(NULL, 'select * from t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/foodbank/login.php on line 44
+[20-Nov-2023 23:17:42 UTC] PHP Warning:  Undefined variable $Code in /home2/activrm2/public_html/foodbank/index.php on line 27
+[20-Nov-2023 23:17:42 UTC] PHP Warning:  Undefined variable $webname in /home2/activrm2/public_html/foodbank/index.php on line 27
+[20-Nov-2023 23:17:42 UTC] PHP Warning:  Undefined global variable $_SESSION in /home2/activrm2/public_html/foodbank/header.php on line 366
+[20-Nov-2023 23:17:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/activrm2/public_html/foodbank/header.php on line 366
+[20-Nov-2023 23:19:45 Europe/London] PHP Warning:  Undefined array key "foodbank_name" in /home2/activrm2/public_html/foodbank/header.php on line 366
+[20-Nov-2023 23:40:44 Europe/London] PHP Warning:  Undefined array key "foodbank_name" in /home2/activrm2/public_html/foodbank/header.php on line 366
+[20-Nov-2023 23:40:44 Europe/London] PHP Warning:  Undefined variable $restaurant in /home2/activrm2/public_html/foodbank/index.php on line 179
+[20-Nov-2023 23:40:44 Europe/London] PHP Warning:  Undefined variable $restaurant in /home2/activrm2/public_html/foodbank/index.php on line 179
+[20-Nov-2023 23:40:44 Europe/London] PHP Warning:  Undefined variable $restaurant in /home2/activrm2/public_html/foodbank/index.php on line 179
+[20-Nov-2023 23:40:44 Europe/London] PHP Warning:  Undefined variable $restaurant in /home2/activrm2/public_html/foodbank/index.php on line 179
+[21-Nov-2023 17:09:21 Europe/London] PHP Warning:  Undefined array key "foodbank_name" in /home2/activrm2/public_html/foodbank/header.php on line 366
+[21-Nov-2023 21:54:49 Europe/London] PHP Warning:  Undefined array key "foodbank_name" in /home2/activrm2/public_html/foodbank/header.php on line 345
+[27-Nov-2023 02:25:05 Europe/London] PHP Warning:  Undefined array key "foodbank_name" in /home2/activrm2/public_html/foodbank/header.php on line 345
+[27-Nov-2023 02:25:05 Europe/London] PHP Warning:  Undefined array key "foodbank_name" in /home2/activrm2/public_html/foodbank/header.php on line 345
+[27-Nov-2023 02:25:05 Europe/London] PHP Warning:  Undefined array key "foodbank_name" in /home2/activrm2/public_html/foodbank/header.php on line 345
+[29-Nov-2023 15:00:27 Europe/London] PHP Warning:  Undefined array key "foodbank_name" in /home2/activrm2/public_html/foodbank/header.php on line 345
+[01-Dec-2023 02:06:53 Europe/London] PHP Warning:  Undefined array key "foodbank_name" in /home2/activrm2/public_html/foodbank/header.php on line 345
+[01-Dec-2023 03:02:46 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS distance_in_km
+                                        FROM
+               ' at line 12 in /home2/activrm2/public_html/foodbank/restaurant.php:103
+Stack trace:
+#0 /home2/activrm2/public_html/foodbank/restaurant.php(103): mysqli_query(Object(mysqli), '\n              ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/foodbank/restaurant.php on line 103
+[01-Dec-2023 03:02:49 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS distance_in_km
+                                        FROM
+               ' at line 12 in /home2/activrm2/public_html/foodbank/restaurant.php:103
+Stack trace:
+#0 /home2/activrm2/public_html/foodbank/restaurant.php(103): mysqli_query(Object(mysqli), '\n              ...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/foodbank/restaurant.php on line 103
+[01-Dec-2023 03:20:29 UTC] PHP Warning:  include(connection.php): Failed to open stream: No such file or directory in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 3
+[01-Dec-2023 03:20:29 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 3
+[01-Dec-2023 03:20:29 UTC] PHP Warning:  Undefined variable $webname in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 37
+[01-Dec-2023 03:20:29 UTC] PHP Warning:  Undefined variable $webname in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 53
+[01-Dec-2023 03:20:29 UTC] PHP Warning:  Undefined variable $conn in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 84
+[01-Dec-2023 03:20:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/activrm2/public_html/foodbank/surplus_food_detail.php:84
+Stack trace:
+#0 /home2/activrm2/public_html/foodbank/surplus_food_detail.php(84): mysqli_query(NULL, 'select * from t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 84
+[01-Dec-2023 03:20:54 UTC] PHP Warning:  include(connection.php): Failed to open stream: No such file or directory in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 3
+[01-Dec-2023 03:20:54 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 3
+[01-Dec-2023 03:20:54 UTC] PHP Warning:  Undefined variable $webname in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 37
+[01-Dec-2023 03:20:54 UTC] PHP Warning:  Undefined variable $webname in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 53
+[01-Dec-2023 03:20:54 UTC] PHP Warning:  Undefined variable $conn in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 86
+[01-Dec-2023 03:20:54 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/activrm2/public_html/foodbank/surplus_food_detail.php:86
+Stack trace:
+#0 /home2/activrm2/public_html/foodbank/surplus_food_detail.php(86): mysqli_query(NULL, 'select * from t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 86
+[01-Dec-2023 03:27:29 UTC] PHP Warning:  include(connection.php): Failed to open stream: No such file or directory in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 3
+[01-Dec-2023 03:27:29 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 3
+[01-Dec-2023 03:27:29 UTC] PHP Warning:  Undefined variable $webname in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 37
+[01-Dec-2023 03:27:29 UTC] PHP Warning:  Undefined variable $webname in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 53
+[01-Dec-2023 03:27:29 UTC] PHP Warning:  Undefined variable $conn in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 86
+[01-Dec-2023 03:27:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/activrm2/public_html/foodbank/surplus_food_detail.php:86
+Stack trace:
+#0 /home2/activrm2/public_html/foodbank/surplus_food_detail.php(86): mysqli_query(NULL, 'select * from t...')
+#1 {main}
+  thrown in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 86
+[01-Dec-2023 03:27:54 Europe/London] PHP Warning:  Undefined variable $totalorder in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 107
+[01-Dec-2023 03:27:54 Europe/London] PHP Warning:  Undefined variable $total_amount in /home2/activrm2/public_html/foodbank/surplus_food_detail.php on line 111
+[01-Dec-2023 03:57:32 Europe/London] PHP Warning:  Undefined array key "item_name" in /home2/activrm2/public_html/foodbank/inventory.php on line 112
+[01-Dec-2023 03:57:32 Europe/London] PHP Warning:  Undefined array key "item_quantity" in /home2/activrm2/public_html/foodbank/inventory.php on line 116
+[01-Dec-2023 03:57:32 Europe/London] PHP Warning:  Undefined array key "item_id" in /home2/activrm2/public_html/foodbank/inventory.php on line 122
+[01-Dec-2023 03:57:32 Europe/London] PHP Warning:  Undefined array key "item_name" in /home2/activrm2/public_html/foodbank/inventory.php on line 112
+[01-Dec-2023 03:57:32 Europe/London] PHP Warning:  Undefined array key "item_quantity" in /home2/activrm2/public_html/foodbank/inventory.php on line 116
+[01-Dec-2023 03:57:32 Europe/London] PHP Warning:  Undefined array key "item_id" in /home2/activrm2/public_html/foodbank/inventory.php on line 122
+[01-Dec-2023 03:57:39 Europe/London] PHP Warning:  Undefined array key "item_name" in /home2/activrm2/public_html/foodbank/inventory.php on line 112
+[01-Dec-2023 03:57:39 Europe/London] PHP Warning:  Undefined array key "item_quantity" in /home2/activrm2/public_html/foodbank/inventory.php on line 116
+[01-Dec-2023 03:57:39 Europe/London] PHP Warning:  Undefined array key "item_id" in /home2/activrm2/public_html/foodbank/inventory.php on line 122
+[01-Dec-2023 03:57:39 Europe/London] PHP Warning:  Undefined array key "item_name" in /home2/activrm2/public_html/foodbank/inventory.php on line 112
+[01-Dec-2023 03:57:39 Europe/London] PHP Warning:  Undefined array key "item_quantity" in /home2/activrm2/public_html/foodbank/inventory.php on line 116
+[01-Dec-2023 03:57:39 Europe/London] PHP Warning:  Undefined array key "item_id" in /home2/activrm2/public_html/foodbank/inventory.php on line 122
+[01-Dec-2023 03:59:33 Europe/London] PHP Warning:  Undefined array key "restaurant_name" in /home2/activrm2/public_html/foodbank/inventory.php on line 140
+[01-Dec-2023 03:59:33 Europe/London] PHP Warning:  Undefined array key "restaurant_number" in /home2/activrm2/public_html/foodbank/inventory.php on line 141
+[01-Dec-2023 03:59:33 Europe/London] PHP Warning:  Undefined array key "restaurant_mail" in /home2/activrm2/public_html/foodbank/inventory.php on line 142
+[01-Dec-2023 03:59:33 Europe/London] PHP Warning:  Undefined array key "surplus_quantity" in /home2/activrm2/public_html/foodbank/inventory.php on line 146
+[01-Dec-2023 03:59:33 Europe/London] PHP Warning:  Undefined array key "restaurant_name" in /home2/activrm2/public_html/foodbank/inventory.php on line 140
+[01-Dec-2023 03:59:33 Europe/London] PHP Warning:  Undefined array key "restaurant_number" in /home2/activrm2/public_html/foodbank/inventory.php on line 141
+[01-Dec-2023 03:59:33 Europe/London] PHP Warning:  Undefined array key "restaurant_mail" in /home2/activrm2/public_html/foodbank/inventory.php on line 142
+[01-Dec-2023 03:59:33 Europe/London] PHP Warning:  Undefined array key "surplus_quantity" in /home2/activrm2/public_html/foodbank/inventory.php on line 146
+[01-Dec-2023 04:00:46 Europe/London] PHP Warning:  Undefined array key "surplus_quantity" in /home2/activrm2/public_html/foodbank/inventory.php on line 140
+[01-Dec-2023 04:00:46 Europe/London] PHP Warning:  Undefined array key "surplus_quantity" in /home2/activrm2/public_html/foodbank/inventory.php on line 140
+[01-Dec-2023 04:00:58 Europe/London] PHP Warning:  Undefined array key "surplus_quantity" in /home2/activrm2/public_html/foodbank/inventory.php on line 140
+[01-Dec-2023 04:00:58 Europe/London] PHP Warning:  Undefined array key "surplus_quantity" in /home2/activrm2/public_html/foodbank/inventory.php on line 140
+[01-Dec-2023 12:38:36 Europe/London] PHP Warning:  Undefined array key "foodbank_name" in /home2/activrm2/public_html/foodbank/header.php on line 345
+[01-Dec-2023 12:38:36 Europe/London] PHP Warning:  Undefined array key "foodbank_id" in /home2/activrm2/public_html/foodbank/index.php on line 68
+[01-Dec-2023 12:38:36 Europe/London] PHP Warning:  Undefined array key "foodbank_id" in /home2/activrm2/public_html/foodbank/index.php on line 92
+[01-Dec-2023 12:38:36 Europe/London] PHP Warning:  Undefined array key "foodbank_id" in /home2/activrm2/public_html/foodbank/index.php on line 142
+[01-Dec-2023 13:26:33 Europe/London] PHP Warning:  Undefined array key "foodbank_name" in /home2/activrm2/public_html/foodbank/header.php on line 345
+[02-Dec-2023 17:47:50 Europe/London] PHP Warning:  Undefined array key "foodbank_name" in /home2/activrm2/public_html/foodbank/header.php on line 345
+[02-Dec-2023 17:47:50 Europe/London] PHP Warning:  Undefined array key "foodbank_id" in /home2/activrm2/public_html/foodbank/index.php on line 68
+[02-Dec-2023 17:47:50 Europe/London] PHP Warning:  Undefined array key "foodbank_id" in /home2/activrm2/public_html/foodbank/index.php on line 92
+[02-Dec-2023 17:47:50 Europe/London] PHP Warning:  Undefined array key "foodbank_id" in /home2/activrm2/public_html/foodbank/index.php on line 142
+[10-Dec-2023 13:17:26 Europe/London] PHP Warning:  Undefined array key "foodbank_name" in /home2/activrm2/public_html/foodbank/header.php on line 345
+[10-Dec-2023 13:17:26 Europe/London] PHP Warning:  Undefined array key "foodbank_id" in /home2/activrm2/public_html/foodbank/index.php on line 68
+[10-Dec-2023 13:17:26 Europe/London] PHP Warning:  Undefined array key "foodbank_id" in /home2/activrm2/public_html/foodbank/index.php on line 92
+[10-Dec-2023 13:17:26 Europe/London] PHP Warning:  Undefined array key "foodbank_id" in /home2/activrm2/public_html/foodbank/index.php on line 142
